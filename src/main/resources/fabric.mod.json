@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "voidupdate",
+  "version": "1.0.0",
+  "name": "The Void Update",
+  "description": "The Update Mojang Has Held Off For YEARS, Brought To You Now.",
+  "authors": [ "SparkShardMC" ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "com.void.VoidUpdate" ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "26.1",
+    "java": ">=21"
+  }
+}
