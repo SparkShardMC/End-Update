@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "voidupdate",
+  "id": "endupdate",
   "version": "1.0.0",
-  "name": "The Void Update",
+  "name": "The End Update",
   "description": "The Update Mojang Has Held Off For YEARS, Brought To You Now.",
   "authors": [ "SparkShardMC" ],
   "license": "MIT",
